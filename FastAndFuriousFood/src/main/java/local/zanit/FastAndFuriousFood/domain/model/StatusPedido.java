@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
  */
-package local.gabriel.FastAndFuriousFood.domain.model;
+package local.zanit.FastAndFuriousFood.domain.model;
 
 /**
  *
- * @author ppjata
+ * @author ppjatb
  */
 public enum StatusPedido {
     ABERTO, ENTREGUE, PRONTO
