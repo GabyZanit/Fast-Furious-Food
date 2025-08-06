@@ -2,11 +2,11 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package local.gabriel.FastAndFuriousFood.api.controller;
+package local.zanit.FastAndFuriousFood.api.controller;
 
 import java.util.List;
-import local.gabriel.FastAndFuriousFood.domain.model.ItemPedido;
-import local.gabriel.FastAndFuriousFood.model.service.ItemPedidoService;
+import local.zanit.FastAndFuriousFood.domain.model.ItemPedido;
+import local.zanit.FastAndFuriousFood.model.service.ItemPedidoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author ppjata
+ * @author ppjatb
  */
 @RestController
 @RequestMapping("/fastfurious")
