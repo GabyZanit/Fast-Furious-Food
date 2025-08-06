@@ -1,4 +1,4 @@
-package local.gabriel.FastAndFuriousFood;
+package local.zanit.FastAndFuriousFood;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
