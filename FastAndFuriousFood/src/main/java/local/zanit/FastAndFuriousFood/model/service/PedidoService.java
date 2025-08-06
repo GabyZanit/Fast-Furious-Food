@@ -51,7 +51,7 @@ public class PedidoService {
     }
      
      public List<Pedido> buscarPorStatus(Enum status) {
-        // Delega a busca ao método findByStatus do PedidoRepository
+      
         return pedidoRepository.findByStatus(status);
     }
     
