@@ -2,17 +2,17 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package local.gabriel.FastAndFuriousFood.api.controller;
+package local.zanit.FastAndFuriousFood.api.controller;
 
 import java.util.List;
 import java.util.Optional;
-import local.gabriel.FastAndFuriousFood.DTO.ProdutoStatusDTO;
-import local.gabriel.FastAndFuriousFood.domain.model.ItemPedido;
-import local.gabriel.FastAndFuriousFood.domain.model.Pedido;
-import local.gabriel.FastAndFuriousFood.domain.model.Produto;
-import local.gabriel.FastAndFuriousFood.domain.model.StatusPedido;
-import local.gabriel.FastAndFuriousFood.domain.repository.PedidoRepository;
-import local.gabriel.FastAndFuriousFood.model.service.PedidoService;
+import local.zanit.FastAndFuriousFood.DTO.ProdutoStatusDTO;
+import local.zanit.FastAndFuriousFood.domain.model.ItemPedido;
+import local.zanit.FastAndFuriousFood.domain.model.Pedido;
+import local.zanit.FastAndFuriousFood.domain.model.Produto;
+import local.zanit.FastAndFuriousFood.domain.model.StatusPedido;
+import local.zanit.FastAndFuriousFood.domain.repository.PedidoRepository;
+import local.zanit.FastAndFuriousFood.model.service.PedidoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import static org.springframework.data.projection.EntityProjection.ProjectionType.DTO;
 import org.springframework.http.HttpStatus;
@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author ppjata
+ * @author ppjatb
  */
 @RestController
 @RequestMapping("/fastfurious")
