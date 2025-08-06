@@ -1,4 +1,4 @@
-package local.gabriel.FastAndFuriousFood;
+package local.zanit.FastAndFuriousFood;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
