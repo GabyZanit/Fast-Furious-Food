@@ -2,14 +2,14 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package local.gabriel.FastAndFuriousFood.domain.model;
+package local.zanit.FastAndFuriousFood.domain.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 
 /**
  *
- * @author ppjata
+ * @author ppjatb
  */
 
 @Entity
