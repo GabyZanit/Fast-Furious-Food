@@ -2,22 +2,22 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package local.gabriel.FastAndFuriousFood.model.service;
+package local.zanit.FastAndFuriousFood.model.service;
 
 
 import java.util.List;
-import local.gabriel.FastAndFuriousFood.domain.model.ItemPedido;
-import local.gabriel.FastAndFuriousFood.domain.model.Pedido;
-import local.gabriel.FastAndFuriousFood.domain.model.Produto;
-import local.gabriel.FastAndFuriousFood.domain.model.StatusPedido;
-import local.gabriel.FastAndFuriousFood.domain.repository.PedidoRepository;
-import local.gabriel.FastAndFuriousFood.domain.repository.ProdutoRepository;
+import local.zanit.FastAndFuriousFood.domain.model.ItemPedido;
+import local.zanit.FastAndFuriousFood.domain.model.Pedido;
+import local.zanit.FastAndFuriousFood.domain.model.Produto;
+import local.zanit.FastAndFuriousFood.domain.model.StatusPedido;
+import local.zanit.FastAndFuriousFood.domain.repository.PedidoRepository;
+import local.zanit.FastAndFuriousFood.domain.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
  *
- * @author ppjata
+ * @author ppjatb
  */
 @Service
 public class PedidoService {
