@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package local.gabriel.FastAndFuriousFood.domain.model;
+package local.zanit.FastAndFuriousFood.domain.model;
 
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.CascadeType;
@@ -18,7 +18,7 @@ import java.util.List;
 
 /**
  *
- * @author ppjata
+ * @author ppjatb
  */
 @Entity
 public class Pedido {
